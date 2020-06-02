@@ -136,4 +136,4 @@ $(document).keypress(() => {
         gameActive = true;
         startGame();
     }
-})
+});
